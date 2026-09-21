@@ -505,19 +505,26 @@ The repository does not declare a single project-level license. It includes thir
 For project-specific questions, contact the repository owner or maintainer. The current codebase does not define a dedicated issue template, contribution policy, or support channel.
 
 ## Videos
+<p>
+  <a href="https://www.youtube.com/watch?v=G7rYpe7j6kg" target="_blank">
+    Part 1
+  </a>
+</p>
 
-<a href="https://www.youtube.com/watch?v=G7rYpe7j6kg" target="_blank">
-  Part 1
-</a> <br>
+<p>
+  <a href="https://www.youtube.com/watch?v=Qrc5TNHoKis" target="_blank">
+    Part 2
+  </a>
+</p>
 
-<a href="https://www.youtube.com/watch?v=Qrc5TNHoKis" target="_blank">
-  Part 2
-</a> <br>
+<p>
+  <a href="https://www.youtube.com/watch?v=03Ky6Xtmvfk" target="_blank">
+    Part 3
+  </a>
+</p>
 
-<a href="https://www.youtube.com/watch?v=03Ky6Xtmvfk" target="_blank">
-  Part 3
-</a> <br>
-
-<a href="https://www.youtube.com/watch?v=kDWXOOwh2Yg" target="_blank">
-  Part 4
-</a>
+<p>
+  <a href="https://www.youtube.com/watch?v=kDWXOOwh2Yg" target="_blank">
+    Part 4
+  </a>
+</p>
