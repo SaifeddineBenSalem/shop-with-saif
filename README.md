@@ -507,5 +507,5 @@ For project-specific questions, contact the repository owner or maintainer. The 
 ## Videos
 
 <a href="https://www.youtube.com/watch?v=G7rYpe7j6kg" target="_blank">
-  <img src="https://img.youtube.com/vi/G7rYpe7j6kg/maxresdefault.jpg" alt="Project Demo">
+  <img src="./youtube/thumbnail.jpg" alt="Project Demo">
 </a>
