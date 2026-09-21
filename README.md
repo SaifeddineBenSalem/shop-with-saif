@@ -506,4 +506,6 @@ For project-specific questions, contact the repository owner or maintainer. The 
 
 ## Videos
 
-[![Watch the project demo on YouTube](https://img.youtube.com/vi/G7rYpe7j6kg/maxresdefault.jpg)](https://www.youtube.com/watch?v=G7rYpe7j6kg)
+<a href="https://www.youtube.com/watch?v=G7rYpe7j6kg" target="_blank">
+  <img src="https://img.youtube.com/vi/G7rYpe7j6kg/maxresdefault.jpg" alt="Project Demo">
+</a>
