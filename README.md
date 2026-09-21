@@ -508,13 +508,16 @@ For project-specific questions, contact the repository owner or maintainer. The 
 
 <a href="https://www.youtube.com/watch?v=G7rYpe7j6kg" target="_blank">
   Part 1
-</a>
+</a> <br>
+
 <a href="https://www.youtube.com/watch?v=Qrc5TNHoKis" target="_blank">
   Part 2
-</a>
+</a> <br>
+
 <a href="https://www.youtube.com/watch?v=03Ky6Xtmvfk" target="_blank">
   Part 3
-</a>
+</a> <br>
+
 <a href="https://www.youtube.com/watch?v=kDWXOOwh2Yg" target="_blank">
   Part 4
 </a>
