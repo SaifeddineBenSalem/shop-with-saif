@@ -503,3 +503,7 @@ The repository does not declare a single project-level license. It includes thir
 ## Contact
 
 For project-specific questions, contact the repository owner or maintainer. The current codebase does not define a dedicated issue template, contribution policy, or support channel.
+
+## Videos
+
+[![Watch the project demo on YouTube](https://img.youtube.com/vi/G7rYpe7j6kg/maxresdefault.jpg)](https://www.youtube.com/watch?v=G7rYpe7j6kg)
